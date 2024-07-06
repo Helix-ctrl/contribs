@@ -17,7 +17,7 @@
         !type:DamageTrigger
         damage: 100
       behaviors:
-      !type:SpawnEntitiesBehavior
+     - !type:SpawnEntitiesBehavior
       spawn:
         CMSheetMetal1:
         min: 1
